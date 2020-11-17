@@ -114,6 +114,11 @@ def main():
 	time.sleep(2)
 	print'\33[1;33mBERHASIL DIISNSTALL.......'
 	bersih()
+        time.sleep(3)
+        print ('Password Tools Ada Dibawah')
+        print ('Username : bz')
+        print ('Password : bz')
+        bersih()
         os.system('cd x-bz;python2 xbz.py')
     if gans in ['7']:
 	os.system('pkg update && pkg upgrade')
@@ -121,11 +126,8 @@ def main():
 	os.system('pip install requests')
 	os.system('git clone https://github.com/dz-id/fb_get_token_from_cookie')
 	bersih()
-	time.sleep(3)
+	time.sleep(2)
 	print'\33[1;33mBERHASIL DIISNSTALL.......'
-        print ('PASSWORD TOOLS DIBAWAH')
-        print ('username : bz')
-        print ('password : bz')
         bersih()
 	os.system('cd fb_get_token_from_cookie;python main.py')
     if gans in ['0']:
