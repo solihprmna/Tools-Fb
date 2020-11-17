@@ -101,6 +101,7 @@ def main():
         print ('PASSWORD TOOLS DIBAWAH')
         print ('Username : Abm')
         print ('Password : Abm')
+        time.sleep(3)
 	bersih()
         os.system('cd Fb-Crack;python2 Crack.py')
     if gans in ['6']:
@@ -118,6 +119,7 @@ def main():
         print ('Password Tools Ada Dibawah')
         print ('Username : bz')
         print ('Password : bz')
+        time.sleep(3)
         bersih()
         os.system('cd x-bz;python2 xbz.py')
     if gans in ['7']:
