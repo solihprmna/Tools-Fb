@@ -31,7 +31,7 @@ def main():
     print'\33[32;1m[\33[37;1m3\33[32;1m] \33[36;1mCrack FB BY Cindyadelia SR. {Login Via Token} '
     print'\33[32;1m[\33[37;1m4\33[32;1m] \33[36;1mCrack FB BY Alvin Gans {Login Via Cookies}'
     print'\33[32;1m[\33[37;1m5\33[32;1m] \33[36;1mFB Crack BY Tech-Abm '
-    print'\33[32;1m[\33[37;1m6\33[32;1m] \33[36;1mxSC x-bz By Alvin Gans '
+    print'\33[32;1m[\33[37;1m6\33[32;1m] \33[36;1mSC x-bz By Alvin Gans '
     print'\33[32;1m[\33[37;1m7\33[32;1m] \33[36;1mUbah Cookies Jadi Token '
     print'\33[32;1m[\33[31;1m0\33[32;1m] \33[31;1mExit '
     gans = raw_input ('\33[36;1m==> ')
