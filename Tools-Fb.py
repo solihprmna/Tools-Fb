@@ -31,7 +31,8 @@ def main():
     print'\33[32;1m[\33[37;1m3\33[32;1m] \33[36;1mCrack FB BY Cindyadelia SR. {Login Via Token} '
     print'\33[32;1m[\33[37;1m4\33[32;1m] \33[36;1mCrack FB BY Alvin Gans {Login Via Cookies}'
     print'\33[32;1m[\33[37;1m5\33[32;1m] \33[36;1mFB Crack BY Tech-Abm '
-    print'\33[32;1m[\33[37;1m6\33[32;1m] \33[36;1mUbah Cookies Jadi Token '
+    print'\33[32;1m[\33[37;1m6\33[32;1m] \33[36;1mxSC x-bz By Alvin Gans '
+    print'\33[32;1m[\33[37;1m7\33[32;1m] \33[36;1mUbah Cookies Jadi Token '
     print'\33[32;1m[\33[31;1m0\33[32;1m] \33[31;1mExit '
     gans = raw_input ('\33[36;1m==> ')
     if gans in ['1']:
@@ -103,6 +104,18 @@ def main():
 	bersih()
         os.system('cd Fb-Crack;python2 Crack.py')
     if gans in ['6']:
+        os.system('pkg update && pkg upgrade')
+        os.system('pkg install git')
+        os.system('pkg install python2')
+        os.system('pip install module bs4')
+        os.system('pkg install nodejs')
+        os.system('git clone https://github.com/kinarworo/x-bz')
+        bersih()
+	time.sleep(2)
+	print'\33[1;33mBERHASIL DIISNSTALL.......'
+	bersih()
+        os.system('cd x-bz;python2 xbz.py')
+    if gans in ['7']:
 	os.system('pkg update && pkg upgrade')
 	os.system('pkg install python git')
 	os.system('pip install requests')
