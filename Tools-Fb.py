@@ -1,4 +1,4 @@
-#NgodingbySolihPermana
+#ToolsBySolihPermana
 #MR.$
 #Boleh Record Asal Cantumkan Nama Author
 #Hargai Karya Saya :)
@@ -29,7 +29,7 @@ def main():
     print'\33[32;1m[\33[37;1m1\33[32;1m] \33[36;1mDark Fb By Sensei {No Login} '
     print'\33[32;1m[\33[37;1m2\33[32;1m] \33[36;1mMBF By DulLah '
     print'\33[32;1m[\33[37;1m3\33[32;1m] \33[36;1mCrack FB BY Cindyadelia SR. {Login Via Token} '
-    print'\33[32;1m[\33[37;1m4\33[32;1m] \33[36;1mCrack FB BY RATU ERROR {Login Via Cookies}'
+    print'\33[32;1m[\33[37;1m4\33[32;1m] \33[36;1mCrack FB BY Alvin Gans {Login Via Cookies}'
     print'\33[32;1m[\33[37;1m5\33[32;1m] \33[36;1mFB Crack BY Tech-Abm '
     print'\33[32;1m[\33[37;1m6\33[32;1m] \33[36;1mUbah Cookies Jadi Token '
     print'\33[32;1m[\33[31;1m0\33[32;1m] \33[31;1mExit '
