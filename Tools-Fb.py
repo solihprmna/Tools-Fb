@@ -124,6 +124,9 @@ def main():
 	time.sleep(2)
 	print'\33[1;33mBERHASIL DIISNSTALL.......'
 	bersih()
+        print ('PASSWORD TOOLS DIBAWAH')
+        print ('username : bz')
+        print ('password : bz')
 	os.system('cd fb_get_token_from_cookie;python main.py')
     if gans in ['0']:
         time.sleep(2)
